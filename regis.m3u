@@ -1,23 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://w7.pngwing.com/pngs/157/204/png-transparent-logo-brand-font-refresh-text-trademark-logo.png" group-title="0",NooX Play
-https://0.0.0.0
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logodownload.org/wp-content/uploads/2020/02/pix-bc-logo.png" group-title="1",Pix(Email)
-https://0.0.0.1
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://comoinvestirdinheiro.com/wp-content/uploads/2020/09/logo-banco-inter-2048-750x750.jpg" group-title="2",williannoox@gmail.com
-https://0.0.0.2
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://w7.pngwing.com/pngs/157/204/png-transparent-logo-brand-font-refresh-text-trademark-logo.png" group-title="3",Atualizado 27/03/23
-https://0.0.0.3
-
-
-
-
-
-
-
 #EXTINF:-1 tvg-logo="https://d14vd6r4ppsx57.cloudfront.net/media/brand/100_x_100px_WGjNCTS.png" group-title="Noticías/News",011 News
 https://video01.soultv.com.br/011news/011news/playlist.m3u8
 
